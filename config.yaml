@@ -7,7 +7,7 @@ keywords:
         annealing: 3
         perceptron: 1
         ising: 1
-        deep:
+        deep: 1
 
 # 通知の閾値
 score_threshold: 0
