@@ -3,9 +3,10 @@ subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        quantum: 3
+        annealing: 3
+        perceptron: 1
+        ising: 1
 
 # 通知の閾値
 score_threshold: 0
