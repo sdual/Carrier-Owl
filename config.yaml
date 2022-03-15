@@ -5,8 +5,9 @@ subject: 'cat:physics.* OR cat:cs.*'
 keywords:
         quantum: 3
         annealing: 3
+        svm: 3
         perceptron: 2
-        ising: 2
+        ising: 1
         deep: 1
 
 # 通知の閾値
