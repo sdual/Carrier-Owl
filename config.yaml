@@ -3,8 +3,7 @@ subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        quantum: 3
-        annealing: 3
+        quantum annealing: 3
         svm: 3
         perceptron: 2
         ising: 1
