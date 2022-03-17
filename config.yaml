@@ -3,13 +3,14 @@ subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        Simulated annealing: 4
+        simulated annealing: 4
         quantum annealing: 4
         svm: 4
+        MCMC: 2
         perceptron: 2
         ising: 2
         binary: 2
-        neural network: 1
+        combinatorial optimization: 2
         
 # 通知の閾値
 score_threshold: 3
