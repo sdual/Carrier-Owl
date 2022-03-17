@@ -3,11 +3,13 @@ subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        quantum annealing: 3
-        svm: 3
+        Simulated annealing: 4
+        quantum annealing: 4
+        svm: 4
         perceptron: 2
-        ising: 1
-        deep: 1
-
+        ising: 2
+        binary: 2
+        neural network: 1
+        
 # 通知の閾値
-score_threshold: 2
+score_threshold: 3
