@@ -5,7 +5,6 @@ subject: 'cat:physics.* OR cat:cs.*'
 keywords:
         simulated annealing: 4
         quantum annealing: 4
-        non-convex: 4
         Wolfe　duality: 4
         perceptron: 2
         ising: 2
