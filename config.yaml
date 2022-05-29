@@ -5,11 +5,14 @@ subject: 'cat:physics.* OR cat:cs.*'
 keywords:
         simulated annealing: 4
         quantum annealing: 4
-        Wolfe　duality: 4
+        Statistical mechanical informatics: 4
         perceptron: 2
+        MCMC: 2
         ising: 2
         binary: 2
         combinatorial optimization: 2
+        statistical mechanics: 1
+        Mathematical optimization: 1
         
 # 通知の閾値
-score_threshold: 3
+score_threshold: 0
