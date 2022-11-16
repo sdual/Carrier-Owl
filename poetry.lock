@@ -1,3 +1,4 @@
+[--no-update]
 [[package]]
 name = "arxiv"
 version = "0.5.3"
