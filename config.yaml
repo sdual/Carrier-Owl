@@ -1,11 +1,19 @@
 # arxivの学問領域の指定
-subject: 'cat:quant-ph'
+subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        quantum: 3
-        pruning: 3
-        neural tangent kernel: 3
-
+        simulated annealing: 4
+        quantum annealing: 4
+        Statistical mechanical informatics: 4
+        compression sensing : 4
+        replica method : 4
+        binary compressive sensing : 4
+        ising: 2
+        binary: 2
+        combinatorial optimization: 2
+        statistical mechanics: 1
+        Mathematical optimization: 1
+        
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
