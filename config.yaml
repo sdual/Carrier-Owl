@@ -3,17 +3,9 @@ subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        simulated annealing: 4
-        quantum annealing: 4
-        Statistical mechanical informatics: 4
-        compression sensing : 4
-        replica method : 4
-        binary compressive sensing : 4
-        ising: 2
-        binary: 2
-        combinatorial optimization: 2
-        statistical mechanics: 1
-        Mathematical optimization: 1
+        quantum: 4
+        neural tangent kernel : 4
+        pruning : 4
         
 # 通知の閾値
 score_threshold: 3
