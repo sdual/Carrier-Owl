@@ -3,6 +3,7 @@ subject: 'cat:quant-ph OR cat:cs.*'
 
 # 検索キーワード
 keywords:
+        quantum machine learning: 4
         quantum kernel: 4
         neural tangent kernel : 4
         pruning : 4
