@@ -7,6 +7,7 @@ keywords:
         quantum kernel: 4
         neural tangent kernel : 4
         pruning : 4
+        quantum: 2
         
 # 通知の閾値
-score_threshold: 3
+score_threshold: 1
